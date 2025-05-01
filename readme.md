@@ -6,4 +6,5 @@ Template genérico para sites de negócios de alimentação (restaurantes, café
 **Recursos:**  
 - Cardápio 
 - Seção "Sobre o negócio"  
-- Design responsivo  
+- Design responsivo
+- teste
